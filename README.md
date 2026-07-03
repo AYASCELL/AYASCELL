@@ -18,11 +18,15 @@
 
 <!-- SOSYAL MEDYA/İLETİŞİM BUTONLARI (SİYAH ZEMİN, ALTIN LOGO) -->
 <div align="center">
-  <a href="https://discord.gg/EUmgf6ZUUB"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D4AF37" /></a>
-  <a href="https://www.youtube.com/@ayascellarchive"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=D4AF37" /></a>
-  <a href="https://www.twitch.tv/ayascellarchive"><img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=D4AF37" /></a>
-  <a href="https://instagram.com/ayascellarchive"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
-  <a href="https://www.tiktok.com/@ayascellarchive"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=D4AF37" /></a>
+  <a href="https://discord.gg/EUmgf6ZUUB"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D4AF37" height="40" /></a>
+<!--  <a href="https://www.youtube.com/@ayascellarchive"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=D4AF37" height="40" /></a>
+  <a href="https://www.twitch.tv/ayascellarchive"><img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=D4AF37" height="40" /></a>
+  <a href="https://instagram.com/ayascellarchive"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37" height="40" /></a>
+  <a href="https://www.tiktok.com/@ayascellarchive"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=D4AF37" height="40" /></a>-->
+  
+  <br><br>
+  
+  <a href="https://ayascell.github.io/links.html"><img src="https://img.shields.io/badge/TÜM_LİNKLERİMİ_GÖR-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=D4AF37" height="40" /></a>
 </div>
 
 <br>
@@ -42,21 +46,21 @@
 ### 🐧 Çalışma Ortamım
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows11&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows11&logoColor=D4AF37" height="40" />
 </div>
 
 ### 💻 Diller ve Frameworkler
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D4AF37" height="40" />
 </div>
 
 <br>
