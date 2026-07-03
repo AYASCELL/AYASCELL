@@ -1,5 +1,50 @@
+<!-- HAREKETLİ TEPE AFİŞİ (ALTIN KONSEPT) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=AYASCELL&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=62" />
+</div>
+
+<!-- ORTA ALAN: LOGO VE BAŞLIK -->
+<div align="center">
+  <h1 align="center">Hoş Geldin!⚡</h1>
+  <p align="center">
+    <i>Full Stack Developer | Linux Tutkunu</i>
+  </p>
+</div>
+
+<!-- HAKKINDA KISMI -->
+<p align="center">
+  Kendi halinde kod yazan, iz bırakan dijital deneyimler yaratmayı ve projeler geliştirmeyi seven bir geliştiriciyim. Ana bilgisayarım olan Dell G15 5530 (i7 13650HX, RTX 4060, 16GB DDR5) üzerinde hem Windows 10 hem de Arch Linux kullanarak projeler geliştiriyorum.
+</p>
+
+<!-- SOSYAL MEDYA/İLETİŞİM BUTONLARI (SİYAH ZEMİN, ALTIN LOGO) -->
+<div align="center">
+  <a href="https://discord.gg/EUmgf6ZUUB"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D4AF37" /></a>
+  <a href="https://www.youtube.com/@ayascellarchive"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=D4AF37" /></a>
+  <a href="https://www.twitch.tv/ayascellarchive"><img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=D4AF37" /></a>
+  <a href="https://instagram.com/ayascellarchive"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
+  <a href="https://www.tiktok.com/@ayascellarchive"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=D4AF37" /></a>
+</div>
+
+<br>
+
+<!-- PROJELER KISMI -->
+## 📂 Öne Çıkan Projelerim
+
+- 🐧 **[Ayas OS](https://github.com/AYASCELL/Ayas):** Geliştirilmeye başlanmış Linux tabanlı işletim sistemi.
+- ⚡ **[Ayascell PC Optimizer](https://github.com/AYASCELL/AYASCELL-PC-Optimizer):** Windows PC'niz için gelişmiş, C# ve .NET tabanlı optimizasyon ve temizlik aracı.
+- 📦 **[AUR Store](https://github.com/AYASCELL/AUR-STORE):** Arch Linux kullanıcıları için geliştirilmiş modern ve kullanıcı dostu Python tabanlı paket yöneticisi.
+
+<br>
+
 <!-- YETENEKLER/ARAÇLAR ROZETLERİ (ALTIN DETAYLI) -->
 ## 👑 Teknoloji & Araç Kutum
+
+### 🐧 Çalışma Ortamım
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows&logoColor=D4AF37" />
+</div>
 
 ### 💻 Diller ve Frameworkler
 <div align="center">
@@ -14,9 +59,9 @@
   <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
 </div>
 
-### 🐧 Çalışma Ortamım
+<br>
+
+<!-- HAREKETLİ ALT BİTİŞ -->
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows&logoColor=D4AF37" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" />
 </div>
