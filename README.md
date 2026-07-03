@@ -7,15 +7,15 @@
 <div align="center">
   <img src="2-Photoroom.png" width="160" alt="Ayascell Logo" />
   
-  <h1 align="center">Sisteme Hoş Geldin! Ben Alperen (AYASCELL) ⚡</h1>
+  <h1 align="center">Sisteme Hoş Geldin! Ben (AYASCELL) ⚡</h1>
   <p align="center">
-    <i>Full Stack Developer | Sistem Optimizasyonu | Arch Linux Tutkunu</i>
+    <i>Full Stack Developer | Linux Tutkunu</i>
   </p>
 </div>
 
 <!-- HAKKINDA KISMI -->
 <p align="center">
-  Kendi halinde kod yazan, iz bırakan dijital deneyimler yaratmayı ve projeler geliştirmeyi seven bir geliştiriciyim. Ana bilgisayarım olan Dell G15 5530 (i7 13650HX, RTX 4060, 16GB DDR5) üzerinde hem Windows 10 hem de Arch Linux kullanarak yeni sistem mimarileri ve yazılımlar inşa ediyorum.
+  Kendi halinde kod yazan, iz bırakan dijital deneyimler yaratmayı ve projeler geliştirmeyi seven bir geliştiriciyim. Ana bilgisayarım olan Dell G15 5530 (i7 13650HX, RTX 4060, 16GB DDR5) üzerinde hem Windows 10 hem de Arch Linux kullanarak projeler geliştiriyorum.
 </p>
 
 <!-- SOSYAL MEDYA/İLETİŞİM BUTONLARI (SİYAH ZEMİN, ALTIN LOGO) -->
