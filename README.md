@@ -50,14 +50,18 @@
 ### 💻 Diller ve Frameworkler
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" height="40" />
-  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=D4AF37" height="40" />
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=D4AF37" height="40" />
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=D4AF37" height="40" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=D4AF37" height="40" />
-  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=D4AF37" height="40" />
-  <img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=D4AF37" height="40" />
   <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Capacitor-0A0A0A?style=for-the-badge&logo=capacitor&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=D4AF37" height="40" />
+  <img src="https://img.shields.io/badge/ASP.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=D4AF37" height="40" />
 </div>
 
 <br>
