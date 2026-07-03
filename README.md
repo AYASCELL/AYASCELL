@@ -18,12 +18,12 @@
 
 <!-- SOSYAL MEDYA/İLETİŞİM BUTONLARI (SİYAH ZEMİN, ALTIN LOGO) -->
 <div align="center">
-  <a href="https://discord.gg/EUmgf6ZUUB"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D4AF37" height="40" /></a>
+  <a href="https://discord.gg/EUmgf6ZUUB" style="font-size:50"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=D4AF37" height="80" /></a>
 <!--  <a href="https://www.youtube.com/@ayascellarchive"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=D4AF37" height="40" /></a>
   <a href="https://www.twitch.tv/ayascellarchive"><img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=D4AF37" height="40" /></a>
   <a href="https://instagram.com/ayascellarchive"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37" height="40" /></a>
   <a href="https://www.tiktok.com/@ayascellarchive"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=D4AF37" height="40" /></a>-->
-   <a href="https://ayascell.github.io/links.html"><img src="https://img.shields.io/badge/TÜM_LİNKLERİMİ_GÖR-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=D4AF37" height="50" /></a>
+   <a href="https://ayascell.github.io/links.html" style="font-size:50"><img src="https://img.shields.io/badge/TÜM_LİNKLERİMİ_GÖR-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=D4AF37" height="80" /></a>
 </div>
 
 <br>
