@@ -55,14 +55,6 @@ Geliştirme süreçlerimde VS Code, Visual Studio ve Android Studio gibi araçla
 
 <br>
 
-<!-- GITHUB İSTATİSTİKLERİ (ÖZEL ALTIN ÇERÇEVELİ TEMA) -->
-## 📈 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYASCELL&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=a9a9a9&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYASCELL&layout=compact&bg_color=0D1117&title_color=D4AF37&text_color=a9a9a9&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="49%" />
-</div>
-
 <!-- HAREKETLİ ALT BİTİŞ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" />
