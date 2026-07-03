@@ -5,9 +5,7 @@
 
 <!-- ORTA ALAN: LOGO VE BAŞLIK -->
 <div align="center">
-  <img src="2-Photoroom.png" width="160" alt="Ayascell Logo" />
-  
-  <h1 align="center">Sisteme Hoş Geldin! Ben (AYASCELL) ⚡</h1>
+  <h1 align="center">Hoş Geldin!⚡</h1>
   <p align="center">
     <i>Full Stack Developer | Linux Tutkunu</i>
   </p>
