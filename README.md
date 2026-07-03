@@ -38,20 +38,20 @@
 
 <!-- YETENEKLER/ARAÇLAR ROZETLERİ (ALTIN DETAYLI) -->
 ## 👑 Teknoloji & Araç Kutum
-Geliştirme süreçlerimde VS Code, Visual Studio ve Android Studio gibi araçlar kullanarak ürettiğim projelerin temel yapı taşları:
 
-<p align="left">
+<div align="center">
+  <br>
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=c-sharp&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/Electron-0A0A0A?style=for-the-badge&logo=electron&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=arch-linux&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=D4AF37" />
-</p>
+  <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows11&logoColor=D4AF37" />
+</div>
 
 <br>
 
