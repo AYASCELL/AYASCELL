@@ -43,7 +43,7 @@
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows11&logoColor=D4AF37" />
 </div>
 
 ### 💻 Diller ve Frameworkler
