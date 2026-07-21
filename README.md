@@ -45,7 +45,7 @@
   <br>
   <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=D4AF37" height="40" />
   <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=windows11&logoColor=D4AF37" height="40" />
-  <img src="https://img.shields.io/badge/Windows_10-0A0A0A?style=for-the-badge&logo=Pika&logoColor=D4AF37" height="40" />
+  [![Windows 11](https://shields.io)](https://shields.io)
 </div>
 
 ### 💻 Diller ve Frameworkler
