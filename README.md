@@ -13,7 +13,7 @@
 
 <!-- HAKKINDA KISMI -->
 <p align="center">
-  Kendi halinde kod yazan, iz bırakan dijital deneyimler yaratmayı ve projeler geliştirmeyi seven bir geliştiriciyim. Ana bilgisayarım olan Dell G15 5530 (i7 13650HX, RTX 4060, 16GB DDR5) üzerinde hem Windows 10 hem de Arch Linux kullanarak projeler geliştiriyorum.
+  Kendi halinde kod yazan, iz bırakan dijital deneyimler yaratmayı ve projeler geliştirmeyi seven bir geliştiriciyim. Ana bilgisayarım olan Dell G15 5530 (i7 13650HX, RTX 4060, 16GB DDR5) üzerinde hem Arch Linux hem Pika OS hemde Windows 10 kullanarak projeler geliştiriyorum.
 </p>
 
 <!-- SOSYAL MEDYA/İLETİŞİM BUTONLARI (SİYAH ZEMİN, ALTIN LOGO) -->
